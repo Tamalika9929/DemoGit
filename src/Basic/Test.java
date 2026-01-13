@@ -15,6 +15,8 @@ public class Test {
 		{
 			int n=Integer.parseInt(String.valueOf(c[i]));
 			System.out.println(n);
+			
+			System.out.print("Hi guys");;
 		}
 	}
 }
