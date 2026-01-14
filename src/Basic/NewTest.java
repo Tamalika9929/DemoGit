@@ -13,6 +13,7 @@ public class NewTest {
 			temp=temp+s.charAt(i);
 		}
 		System.out.print(temp);
+		System.out.print(12345);
 
 	}
 
