@@ -18,5 +18,7 @@ public class Test {
 			
 			System.out.print("Hi guys");;
 		}
+		
+		System.out.print("Hello , How are you?");
 	}
 }
