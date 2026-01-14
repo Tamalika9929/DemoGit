@@ -1,6 +1,6 @@
 package Basic;
 
-public class ReverseString {
+public class NewTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -13,8 +13,8 @@ public class ReverseString {
 			temp=temp+s.charAt(i);
 		}
 		System.out.print(temp);
-		
-		System.out.print("Helloooo");
+		System.out.print(12345);
+
 	}
 
 }

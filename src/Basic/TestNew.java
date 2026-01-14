@@ -1,9 +1,10 @@
 package Basic;
 
-public class ReverseString {
+public class TestNew {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
 		String s="Hello",temp="";
 		
 		//char c[]=s.toCharArray();
@@ -13,8 +14,6 @@ public class ReverseString {
 			temp=temp+s.charAt(i);
 		}
 		System.out.print(temp);
-		
-		System.out.print("Helloooo");
 	}
 
 }

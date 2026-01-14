@@ -1,12 +1,10 @@
 package Basic;
 
-import java.util.ArrayList;
-import java.util.List;
+public class Test1 {
 
-public class Test {
-	
-	public static void main(String [] args) {
-		
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
 		String s="silent1234";
 		int count=0;
 		char c[]=s.toCharArray();
@@ -20,5 +18,7 @@ public class Test {
 		}
 		
 		System.out.print("Hello , How are you?");
+
 	}
+
 }
